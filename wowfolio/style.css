@@ -1,0 +1,9 @@
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, sans-serif;
+  background: #0b0d10;
+  color: #eaf2f8;
+}
+a { color: #6be675; text-decoration: none; }
+a:hover { opacity: 0.8; }
